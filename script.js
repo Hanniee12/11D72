@@ -1,11 +1,11 @@
 const messages = [
-  "Nhớ nhớ nhớ em!"
+  "Nhớ nhớ nhớ anh!"
 ];
 
 function generateRandomNotifications() {
   const notificationCount = 100;
   const messages = [
-    "Anh yêu em."
+    "Em yêu anh ❤"
   ];
 
   for (let i = 0; i < notificationCount; i++) {
